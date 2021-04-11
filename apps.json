@@ -3104,6 +3104,5 @@
     {"name":"hourstrike.boot.js","url":"boot.js"},
     {"name":"hourstrike.img","url":"app-icon.js","evaluate":true}
   ]
-},
-
+}
 ]
