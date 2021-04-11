@@ -3105,15 +3105,5 @@
     {"name":"hourstrike.img","url":"app-icon.js","evaluate":true}
   ]
 },
-{ "id": "CleanClock",
-  "name": "A clean looking clock",
-  "icon": "app.png",
-  "version":"0.01",
-  "description": "A clean looking clock with an analog second hand",
-  "tags": "",
-  "storage": [
-    {"name":"CleanClock.app.js","url":"app.js"},
-    {"name":"CleanClock.img","url":"app-icon.js","evaluate":true}
-  ],
-}
+
 ]
