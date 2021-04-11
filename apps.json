@@ -3104,5 +3104,17 @@
     {"name":"hourstrike.boot.js","url":"boot.js"},
     {"name":"hourstrike.img","url":"app-icon.js","evaluate":true}
   ]
+},
+{"id":"CleanClock",
+  "name":"CleanClock",
+  "shortName":"CleanClock",
+  "icon":"app.png",
+  "version":"0.01",
+  "description":"A clean clock",
+  "tags":"",
+  "storage":[
+    {"name":"CleanClock.app.js","url":"app.js"},
+    {"name":"CleanClock.img","url":"app-icon.js","evaluate":true}
+  ]
 }
 ]
